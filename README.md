@@ -1,16 +1,27 @@
-## Hi there 👋
+# Eliyah
 
-<!--
-**stothersfaylynn-rgb/stothersfaylynn-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我用 AI 辅助短视频制作，也制作网站、小工具和可编辑动画。这里收录代表作品，以及从实际制作过程中整理出的模板和方法。
 
-Here are some ideas to get you started:
+## 动画与视频模板
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[四个可编辑 Remotion 动画](https://github.com/stothersfaylynn-rgb/motionface-remotion-four-demos)
+
+包括卡片入场与归档、一张卡拆成两类、天平倾斜与镜头推进、任务流转与分级检查。仓库提供源码、预览入口和渲染说明，可按说明替换文案与素材。第三方组件和素材的使用范围见项目说明。
+
+## 创作者 AI 工具
+
+正在整理用于中文口播和短视频制作的工具与 Skills，首批计划包括多音字与数字读音处理、短视频开头诊断。公开时会附输入输出示例和使用说明。
+
+## 网站与小应用
+
+[医学理想国界面项目](https://github.com/stothersfaylynn-rgb/med-utopia-lithos-cover)
+
+目前可查看界面项目源码。项目介绍、效果截图和运行说明正在整理。
+
+## 制作流程与案例
+
+计划整理文稿到画面的制作过程、修改前后对比，以及工具在具体制作任务中的用法。
+
+## 合作
+
+欢迎交流 AI 辅助内容制作、网站演示和可编辑动画模板。可在相关项目的 Issues 中说明需求。
